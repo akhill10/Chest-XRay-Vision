@@ -9,7 +9,7 @@ Also created a an option of **Feature Extractor**: where we will freeze the weig
 
 ## Data Set
 
-openi.nlm.nih.gov has a large base of Xray,MRI, CT scan images publically available.Specifically Chest Xray Images have been scraped, Normal and Nodule labbeled images are futher extrated for this task.
+[openi.nlm.nih.gov] has a large base of Xray,MRI, CT scan images publically available.Specifically Chest Xray Images have been scraped, Normal and Nodule labbeled images are futher extrated for this task.
 
 
 ## Steps to follow
